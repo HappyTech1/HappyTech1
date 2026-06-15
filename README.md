@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Obinna
 
-<!--
-**HappyTech1/HappyTech1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Cybersecurity Enthusiast | Aspiring Security Analyst
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about cybersecurity, penetration testing, vulnerability assessment, and information security. I enjoy learning through hands-on labs and real-world security challenges.
+
+### 🚀 Currently Learning
+
+* Web Application Security
+* OWASP Top 10
+* Burp Suite
+* Nessus Vulnerability Scanner
+* ISO 27001
+* SOC 1
+* Linux & Networking
+* API Security Testing
+
+### 🛠️ Tools & Technologies
+
+* Kali Linux
+* Burp Suite
+* Nessus
+* Wireshark
+* Nmap
+* Git & GitHub
+* Linux Command Line
+
+### 📚 Practice Platforms
+
+* PortSwigger Web Security Academy
+* TryHackMe
+* Hack The Box
+
+### 🎯 Goals for 2026
+
+* Complete more Web Security Academy Labs
+* Earn cybersecurity certifications
+* Build security-related projects
+* Contribute to open-source security tools
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HappyTech1\&show_icons=true)
+
+### 📫 Connect With Me
+
+* GitHub: https://github.com/HappyTech1
+
+### ⚡ Fun Fact
+
+I enjoy solving cybersecurity labs and learning how vulnerabilities are discovered and fixed.
