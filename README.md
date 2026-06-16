@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=HappyTech1&color=blue)
 # 👋 Hi, I'm Obinna
 
 ## 🔐 Cybersecurity Enthusiast | Aspiring Security Analyst
